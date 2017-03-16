@@ -1,9 +1,9 @@
 # Site settings
-title: Thies Gehrmann
-email: t.gehrmann{at}cbs.knaw.nl
-url: https://thiesgehrmann.github.io
-description: "Thies Gehrmann"
-skills: "Bioinformatics - Fungal biology - Sequence analysis"
+title: Hilmar Zech
+email: h.g.zech@fsw.leidenuniv.nl
+url: https://hgzech.github.io
+description: "Hilmar Zech"
+skills: "Psychology - Programming - Magic"
 meta_author: Gehrmann Thies
 
 # Google webmaster tools
@@ -38,12 +38,12 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/thiesgehrmann
+  #- title: twitter
+  #  url: http://twitter.com/thiesgehrmann
   #- title: bitbucket
   #  url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/thiesgehrmann
+    url: http://github.com/hgzech
 
 posttags:
  - Sequence analysis
