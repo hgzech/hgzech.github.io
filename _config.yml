@@ -3,7 +3,7 @@ title: Hilmar Zech
 email: h.g.zech@fsw.leidenuniv.nl
 url: https://hgzech.github.io
 description: "Hilmar Zech"
-skills: "Psychology - Programming - Magic"
+skills: "Psychology - Programming"
 meta_author: Gehrmann Thies
 
 # Google webmaster tools
@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Thies Gehrmann
+  copyright: Hilmar Zech
   #location: Location
   #social: Around the Web
   #credits: Credits
@@ -46,21 +46,15 @@ social:
     url: http://github.com/hgzech
 
 posttags:
- - Sequence analysis
- - Transcriptomics
- - Fungi
- - Biological networks
- - Synteny
- - Alternative splicing
- - Variant discovery
- - Functional prediction
- - Data integration
+ - Approach-avoidance
+ - Mobile psychology
+ - Statistics
 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: t.gehrmann{at}cbs.knaw.nl 
-  - line: Uppsalalaan 8, 3584 CT Utrecht, Netherlands
+  - line: h.g.zech{at}fsw.leidenuniv.nl 
+  - line: Wassenarseweg 52, 2333 AK Leiden, Netherlands
 
 # Credits content
 credits: 'Design based on Jerome Lachaude&#39;s <a href="https://github.com/jeromelachaud/freelancer-theme" alt="link to Jeromelachauds theme">Freelancer theme</a>.'
